@@ -1,16 +1,15 @@
-# React + Vite
+## Vant Prime - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vant é um site moderno desenvolvido com foco total em design e apresentação visual, inspirado em uma landing page de vendas de celulares. O objetivo do projeto é demonstrar habilidades de layout, estrutura visual, organização e atenção aos detalhes para construção de interfaces web.
 
-Currently, two official plugins are available:
+# Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O Prime foi projetado como uma página atrativa e profissional, destacando um smartphone premium com uma identidade visual simples, moderna e elegante.
 
-## React Compiler
+# Objetivo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Criar uma página visualmente forte e comercial.
 
-## Expanding the ESLint configuration
+Treinar boas práticas de design para web.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Demonstrar experiência em estruturação de layout e estilização.
