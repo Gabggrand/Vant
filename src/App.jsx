@@ -10,7 +10,7 @@ function App() {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <div className="w-12 h-12 sm:w-16 sm:h-14 from-purple-600 to-cyan-500 rounded-lg flex items-center justify-center">
-               <img src='./src/img/Logo.png'/>
+               <img src='/images/Logo.png'/>
             </div>
             <span className="text-xl sm:text-2xl font-bold text-white">VANT</span>
           </div>
@@ -59,7 +59,7 @@ function App() {
           </button>
         </div>
         <div className="w-full lg:w-1/2 flex items-center justify-center lg:justify-end p-4 sm:p-6 lg:p-8">
-           <img src='./src/img/Vant-Prime.png'/>
+           <img src='/images/Vant-Prime.png'/>
         </div>
       </section>
       <div className="relative h-px bg-gradient-to-r from-transparent via-[#4B0082] to-transparent my-8 sm:my-12"></div>
@@ -104,7 +104,7 @@ function App() {
           </h2>
           <div className="w-full max-w-sm sm:max-w-md mb-4 sm:mb-6">
             <div className="relative from-gray-800 to-gray-900 p-6 sm:p-8 rounded-2xl shadow-xl">
-              <img src='./src/img/Vant_Prime.png'/>
+              <img src='/images/Vant_Prime.png'/>
             </div>
           </div>
           <ul className="list-disc pl-5 text-gray-400 text-base sm:text-lg space-y-2 text-left">
